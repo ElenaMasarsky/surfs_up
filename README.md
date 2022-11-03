@@ -10,8 +10,7 @@ W. Avy knows your've been learning how to properly analyze data and asks if you 
 where you'd like to open your shop: The beautiful Oahu. And so, Aloha, Let's go! 
 
 ## Results:  
-![pic](https://github.com/ElenaMasarsky/surfs_up/blob/main/images/June.png)  
-![pic](https://github.com/ElenaMasarsky/surfs_up/blob/main/images/December.png)  
+![pic](https://github.com/ElenaMasarsky/surfs_up/blob/main/images/June.png) | ![pic](https://github.com/ElenaMasarsky/surfs_up/blob/main/images/December.png)  
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.  
 
 ## Summary:  
