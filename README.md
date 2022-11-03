@@ -1,17 +1,18 @@
 # surfs_up
 ## Overview of the analysis:  
-While on vacation in Hawaii last year you discovered a newfound passion for surfing. You've been trying to come up with a plan that will ltet you not just return to Hawaii but live there forever.
-You finally come up with an idea that you think is foolproof. A Surf n' Shake shop serving surfboards and ice cream to locals, tourists, and of course yourself. You have some savings you're willing to invest, but we'll eed some real investor backing to get this off the ground. 
-So after putting together a strong business plan you reach out to an investor W. Any who is famous for his love of surfing. Your first meeting with him goes extremely well but he has one concern.
-What about the weather? He's extremely serious about this. Hie invested in a surf shop early in his career.
-However, he didn't ask for any weather analysis and that early venture was rained out of existence.
-However, he didn't ask for any weather analysis and that early venture was rained out of existence.
-W. Avy knows your've been learning how to properly analyze data and asks if you can run some analytics on a weather dataset he has from the very island
-where you'd like to open your shop: The beautiful Oahu. And so, Aloha, Let's go! 
+In this project we are going to analyse an idea to open a Surf n' Shake shop serving surfboards and ice cream to locals, tourists at Oahu island in Hawaii. Since we need some real investor backing to get this off the ground, 
+we want to put together a strong business plan. We want more information about temperature trends before opening the surf shop.
+Specifically, we want temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 ## Results:  
 ![pic](https://github.com/ElenaMasarsky/surfs_up/blob/main/images/June.png) | ![pic](https://github.com/ElenaMasarsky/surfs_up/blob/main/images/December.png)  
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.  
+* The average temperatures in June is 74.94 and in December is 71.04. We do not observe drastically difference of temperature for this months.
+* Standard deviation for June is 3.2574 and for December is 3.7459, which are not showing us a big difference between temperatures during this months.
+* The minimum temperature in June is 64.0 and in December is 56.0. Looks like some nights might be pretty cold.
 
 ## Summary:  
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.  
+Analysing the tamperature data we can assume that tamperature conditions are pretty similar year-round in Oahu. The tamperature does not change significantly
+during the year. And looks like to open shope serving surfboards and ice cream in this island is a good business to invest.
+But I would consider to do more analysis to check the precipitation amount for this months and the water temperature, if it's comfortable for swimming, since 
+nights in December are pretty cold.
